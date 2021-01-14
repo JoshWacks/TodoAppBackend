@@ -3,4 +3,4 @@ import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 SQLALCHEMY_ECHO = False
 SQLALCHEMY_TRACK_MODIFICATIONS = True
-SQLALCHEMY_DATABASE_URI = "postgresql://postgres:Password@localhost/productivity_app"
+SQLALCHEMY_DATABASE_URI = "postgresql://developer:appDevelopment123@localhost/productivity_app"
